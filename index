@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Morse Flashlight Pro</title>
+    <meta name="description" content="Privacy Policy for Morse Flashlight Pro - Emergency communication app that collects zero personal data">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #FFD700;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+            border-bottom: 3px solid #FFD700;
+            padding-bottom: 15px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+
+        h2 {
+            color: #1a1a1a;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        ul {
+            margin: 15px 0;
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .highlight {
+            background-color: #f0f8ff;
+            border: 2px solid #FFD700;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+            font-weight: bold;
+        }
+
+        .contact {
+            background-color: #f8f8f8;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <div class="subtitle">Morse Flashlight Pro - Emergency Communication Tool</div>
+        <p style="text-align: center; font-style: italic;">Last updated: September 21, 2025</p>
+
+        <p>We operate the Morse Flashlight Pro app. Your privacy is important to us, and we remain committed to protecting your personal data. This Privacy Policy explains clearly what information we collect, how it is stored, and how it is used.</p>
+
+        <h2>What Information We Collect</h2>
+        
+        <div class="highlight">
+            Morse Flashlight Pro <strong>does not collect or store any personal data</strong> from you through the app. We do not track, analyze, or profile you in any way. Your data stays completely private and under your control.
+        </div>
+
+        <p>The app operates completely offline and requires no internet connection to function.</p>
+
+        <h2>App Permissions</h2>
+        
+        <p>Morse Flashlight Pro uses the following device permissions:</p>
+        <ul>
+            <li><strong>Camera:</strong> Used solely to control the device LED flashlight. No photos, videos, or visual data are captured or stored.</li>
+            <li><strong>Screen Brightness:</strong> Used to adjust screen brightness for the white screen flashlight mode. No brightness preferences are saved.</li>
+            <li><strong>Language Detection:</strong> Uses iOS system language settings to display the app interface in your preferred language. This information is read-only and never stored or transmitted.</li>
+        </ul>
+
+        <h2>Data Storage</h2>
+        
+        <p>Morse Flashlight Pro stores minimal data:</p>
+        <ul>
+            <li><strong>Locally on your device:</strong> Basic app preferences only (such as selected flashlight mode)</li>
+            <li><strong>No cloud storage:</strong> Nothing is uploaded, synchronized, or backed up to any servers</li>
+            <li><strong>Temporary data:</strong> Text you type for morse code conversion is cleared after use</li>
+        </ul>
+
+        <h2>Third-Party Services</h2>
+        
+        <p>Morse Flashlight Pro uses <strong>zero third-party services</strong>. We do not use:</p>
+        <ul>
+            <li>Analytics tools or tracking</li>
+            <li>Advertising networks</li>
+            <li>Crash reporting services</li>
+            <li>Cloud storage services</li>
+            <li>Social media integrations</li>
+        </ul>
+
+        <h2>Analytics & Tracking</h2>
+        
+        <p>We do <strong>not</strong> use any analytics tools or tracking mechanisms within the app beyond what Apple provides by default through the App Store. We do not track your usage or interactions within the app.</p>
+
+        <h2>International Privacy Laws</h2>
+        
+        <p>Since we do not collect personal data, privacy laws such as GDPR, CCPA, and others do not apply within the app. We automatically comply with international privacy standards by collecting zero personal information.</p>
+
+        <h2>Changes to This Privacy Policy</h2>
+        
+        <p>We may update this policy occasionally. Any changes will be clearly indicated here with the new date at the top.</p>
+
+        <div class="contact">
+            <h2>Contact</h2>
+            <p>For any privacy-related questions or concerns, please contact:</p>
+            <p><strong>Email:</strong> <code>morseflashlightpro@gmail.com</code></p>
+        </div>
+    </div>
+</body>
+</html>
